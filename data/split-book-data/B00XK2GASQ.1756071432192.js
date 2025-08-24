@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>From best-selling author Nalini Singh comes \"Christmas in the Kitchen,\" a must-listen Psy-Changeling short story that features several members of the DarkRiver leopard pack, including two sentinels. Set before <i>Bonds of Justice</i>, \"Christmas in the Kitchen\" explores the everyday lives of the characters in the Psy-Changeling series. </p>"; 
